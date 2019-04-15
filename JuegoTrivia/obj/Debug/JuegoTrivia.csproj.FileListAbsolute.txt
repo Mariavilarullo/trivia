@@ -1,0 +1,15 @@
+C:\Users\Nuevo Usuario\Documents\Visual Studio 2012\Projects\JuegoTrivia\JuegoTrivia\bin\Debug\JuegoTrivia.exe.config
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\bin\Debug\JuegoTrivia.exe.config
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.csprojResolveAssemblyReference.cache
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.Highscores.resources
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.IngresoNombre.resources
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.MenuInicial.resources
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.Properties.Resources.resources
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.csproj.GenerateResource.Cache
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\bin\Debug\JuegoTrivia.exe
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\bin\Debug\JuegoTrivia.pdb
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.exe
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.pdb
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\bin\Debug\System.Data.SQLite.dll
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Nuevo Usuario\Desktop\JuegoTrivia\JuegoTrivia\obj\Debug\JuegoTrivia.Juego.resources
